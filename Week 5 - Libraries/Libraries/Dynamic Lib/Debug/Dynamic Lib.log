@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  DynamicLib.cpp
+d:\uni\software practices\semester 1\week 5 - libraries\libraries\dynamic lib\dynamiclib.cpp(10): warning C4273: 'DynamicLib::Functions::Add': inconsistent dll linkage
+  d:\uni\software practices\semester 1\week 5 - libraries\libraries\dynamic lib\dynamiclib.h(16): note: see previous definition of 'Add'
+d:\uni\software practices\semester 1\week 5 - libraries\libraries\dynamic lib\dynamiclib.cpp(15): warning C4273: 'DynamicLib::Functions::Multiply': inconsistent dll linkage
+  d:\uni\software practices\semester 1\week 5 - libraries\libraries\dynamic lib\dynamiclib.h(19): note: see previous definition of 'Multiply'
+d:\uni\software practices\semester 1\week 5 - libraries\libraries\dynamic lib\dynamiclib.cpp(20): warning C4273: 'DynamicLib::Functions::AddMultiply': inconsistent dll linkage
+  d:\uni\software practices\semester 1\week 5 - libraries\libraries\dynamic lib\dynamiclib.h(22): note: see previous definition of 'AddMultiply'
+  dllmain.cpp
+  Generating Code...
+     Creating library D:\Uni\Software Practices\Semester 1\Week 5 - Libraries\Libraries\Debug\Dynamic Lib.lib and object D:\Uni\Software Practices\Semester 1\Week 5 - Libraries\Libraries\Debug\Dynamic Lib.exp
+  Dynamic Lib.vcxproj -> D:\Uni\Software Practices\Semester 1\Week 5 - Libraries\Libraries\Debug\Dynamic Lib.dll
+  Dynamic Lib.vcxproj -> D:\Uni\Software Practices\Semester 1\Week 5 - Libraries\Libraries\Debug\Dynamic Lib.pdb (Partial PDB)

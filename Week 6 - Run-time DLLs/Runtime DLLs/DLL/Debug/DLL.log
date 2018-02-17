@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  Add.cpp
+  Generating Code...
+     Creating library D:\Uni\Software Practices\Semester 1\Week 6 - Run-time DLLs\Runtime DLLs\Debug\Add.lib and object D:\Uni\Software Practices\Semester 1\Week 6 - Run-time DLLs\Runtime DLLs\Debug\Add.exp
+  DLL.vcxproj -> D:\Uni\Software Practices\Semester 1\Week 6 - Run-time DLLs\Runtime DLLs\Debug\Add.dll
+  DLL.vcxproj -> D:\Uni\Software Practices\Semester 1\Week 6 - Run-time DLLs\Runtime DLLs\Debug\Add.pdb (Partial PDB)
